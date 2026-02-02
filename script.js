@@ -13,7 +13,6 @@
 let tasks = [];
 let currentFilter = 'all';
 
-
 const taskInput = document.getElementById('taskInput');
 const addTaskBtn = document.getElementById('addTaskBtn');
 const taskList = document.getElementById('taskList');
@@ -253,4 +252,5 @@ console.log('✅ Task Manager Application Loaded');
 console.log('📊 Web Infrastructure: Browser → GitHub Pages → Static Files');
 console.log('💾 Data Storage: Browser localStorage API');
 console.log('👨‍💻 Created by: Arjuna Caleb Gyan');
+
 console.log('🏫 Institution: African Leadership College of Higher Education');
