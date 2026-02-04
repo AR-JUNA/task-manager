@@ -416,28 +416,12 @@ Test on different screen sizes:
 
 ---
 
-## 📊 Assignment Rubric Alignment
-
-| Criteria | Implementation | Points |
-|----------|----------------|--------|
-| **Task Management Features** | ✅ Add, View, Complete, Delete tasks | 20/20 |
-| **User Interface & Usability** | ✅ Responsive, modern design, smooth UX | 20/20 |
-| **Web Infrastructure Understanding** | ✅ Detailed README with diagrams | 20/20 |
-| **Deployment & Accessibility** | ✅ Live on GitHub Pages with public URL | 15/15 |
-| **Code Quality & Documentation** | ✅ Clean code, comments, clear README | 15/15 |
-| **Creativity / Optional Features** | ✅ Stats, filters, localStorage, animations | 15/15 |
-| **Total** | | **105/100** |
-
----
-
 ## 📝 License & Credits
 
 **Created for**: Web Infrastructure Assignment 2026  
-**Student**: Arjuna Caleb Gyan  
-**Institution**: African Leadership College of Higher Education  
+**Student**: Arjuna Caleb Gyan    
 **Email**: a.gyan@alustudent.com  
 **GitHub**: [@AR-JUNA](https://github.com/AR-JUNA)  
-**Deadline**: February 5, 2026
 
 ---
 
