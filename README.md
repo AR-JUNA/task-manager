@@ -7,6 +7,7 @@ A simple, elegant task management web application demonstrating fundamental web 
 **Email:** a.gyan@alustudent.com  
 **GitHub:** [@AR-JUNA](https://github.com/AR-JUNA)  
 **Project URL:** https://ar-juna.github.io/task-manager/
+
 **Project Demo** https://drive.google.com/file/d/1NO_Cva-aZ9SgBNxpDedUBsk0MpMwFHTn/view?usp=sharing
 
 ---
