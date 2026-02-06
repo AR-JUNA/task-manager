@@ -430,8 +430,7 @@ Test on different screen sizes:
 - **Live Application**: https://ar-juna.github.io/task-manager/
 - **GitHub Repository**: https://github.com/AR-JUNA/task-manager
 - **Documentation**: This README file
-
----
+- **Live Demo video**: https://drive.google.com/file/d/1NO_Cva-aZ9SgBNxpDedUBsk0MpMwFHTn/view?usp=sharing
 
 ## 📧 Contact
 
